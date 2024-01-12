@@ -1,8 +1,8 @@
 ---
-title: Hello
-date: 2024-01-11
-categories: [SQL]
-tags: [Data Analysis]
+title: SQL Data Analysis
+date: 2024-01-12 13:20:00 -0500
+categories: [SQL, Tableau]
+tags: [sql, analysis]     
 ---
 
 # SQL ~ A Journey through Supply Chain Data Analysis
@@ -47,7 +47,7 @@ After this initial cleanup, I ensured that the dataset didn't have any missing v
 
 The next step involved normalizing the dataset, which essentially means organizing it in a structured way. The resulting diagram reflects the relationships and connections between different pieces of information in our dataset.
 
-![DataCo supply chain entity-relationship diagram](SQL%20~%20A%20Journey%20through%20Supply%20Chain%20Data%20Analysis%20585b3003c95547e5b170a01572d0fa17/ERD_supply_chain_v2.png)
+![DataCo supply chain entity-relationship diagram](/assets/SQL%20~%20A%20Journey%20through%20Supply%20Chain%20Data%20Analysis%20585b3003c95547e5b170a01572d0fa17/ERD_supply_chain_v2.png)
 
 DataCo supply chain entity-relationship diagram
 
@@ -220,7 +220,7 @@ These insights shed light on the variability in profitability across different p
 
 Let’s analyze how this numbers change across different group of orders count.
 
-![Untitled](/assets/lib/SQL%20~%20A%20Journey%20through%20Supply%20Chain%20Data%20Analysis%20585b3003c95547e5b170a01572d0fa17/Untitled%203.png)
+![Untitled](/assets/SQL%20~%20A%20Journey%20through%20Supply%20Chain%20Data%20Analysis%20585b3003c95547e5b170a01572d0fa17/Untitled%203.png)
 
 The above image illustrates a subset of the maximum and minimum average profit for customers who placed one order, two orders, and so forth. It also includes the count of orders that produced positive and negative profits. From this analysis, we can draw several inferences:
 
