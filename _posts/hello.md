@@ -1,8 +1,8 @@
 ---
 title: Hello
-date:
-categories: []
-tags: []
+date: 2024-01-11
+categories: [SQL]
+tags: [Data Analysis]
 ---
 
 # SQL ~ A Journey through Supply Chain Data Analysis
