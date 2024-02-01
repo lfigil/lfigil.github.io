@@ -2,7 +2,7 @@
 title: Python Sport Climbing Analysis
 date: 2024-01-31 21:00:00 -0500
 categories: [Python]
-tags: [Pandas, Selenium, Seaborn]
+tags: [pandas, selenium, seaborn, matplotlib]
 ---
 
 # Python ~ IFSC Climbing World Cups 2023

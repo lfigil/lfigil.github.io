@@ -2,7 +2,7 @@
 title: Tableau Data Analysis
 date: 2023-06-17 17:02:00 -0500
 categories: [Tableau]
-tags: [Viz, analysis]
+tags: [viz, analysis]
 ---
 
 # Tableau ~ Analyzing Airbnb Data
