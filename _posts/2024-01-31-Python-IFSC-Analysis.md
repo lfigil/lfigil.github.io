@@ -2,7 +2,7 @@
 title: Python Sport Climbing Analysis
 date: 2024-01-31 17:02:00 -0500
 categories: [Python]
-tags: [Pandas, Selenium]
+tags: [Pandas, Selenium, Seaborn]
 ---
 
 # Python ~ IFSC Climbing World Cups 2023
@@ -55,7 +55,7 @@ The **age** variable represents the age of athletes in years. The dataset includ
 
 In the 2023 sport climbing competitions, a total of 67 countries were represented, with Japan having the largest contingent of participating athletes. Following closely were France, the USA, and Korea.
 
-![02_Athlete_Count_per_Country_-_2023_Competitions.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/02_Athlete_Count_per_Country_-_2023_Competitions.png)
+![02_Athlete_Count_per_Country_-_2023_Competitions.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/02_Athlete_Count_per_Country_During_the_2023_Sport_Climbing_Competitions.png)
 
 The boulder CSV file comprises 1,232 records and 8 variables. This category was featured in 7 events throughout 2023, with a predominant number of male participants. The accompanying bar chart illustrates the distribution of athletes and reveals a decline in participation during the Hachioji, Seoul, and Salt Lake City competitions. Conversely, there is an upward trend in athlete numbers for the remaining competitions.
 
@@ -97,11 +97,11 @@ In the boulder category, the athlete who solves the most problems in the lowest 
 
 During the qualifications round across all competitions events, only three athletes were able to have a perfect score (5t 5z 5 5). 
 
-![Screenshot from 2024-01-31 21-34-54.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/Screenshot_from_2024-01-31_21-34-54.png)
+![Screenshot from 2024-01-31 21-34-54.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/boulder_qualifications.png)
 
 Only one athlete was able to have a perfect score during the semi finals and finals by first placed athlete Janja Garnbret during the Bern and Innsbruck competitions
 
-![Screenshot from 2024-01-31 21-39-34.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/Screenshot_from_2024-01-31_21-39-34.png)
+![Screenshot from 2024-01-31 21-39-34.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/boulder_semi_finals.png)
 
 Boulder Final results
 
@@ -123,7 +123,7 @@ Athletes that reached top during the final rounds
 
 Four athletes demonstrated impressive performances, reaching the top in the final rounds of their respective competitions. Janja Garnbret showcased exceptional skills by conquering the route in three different events: Villars, Bern, and Koper. Her consistency across these competitions underscores her prowess in the sport. Another notable performer is Sorato Anraku, who successfully completed two tops, one in Briançon and another in Koper.
 
-![12_Count of Max Hold Reached by All Athletes Excluding TOPS.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/12_Count_of_Max_Hold_Reached_by_All_Athletes_Excluding_TOPS.png)
+![12_Count of Max Hold Reached by All Athletes Excluding TOPS.png](/assets/Python_~_IFSC_Climbing_World_Cups_2023/12_Count%20of%20Max%20Hold%20Reached%20by%20All%20Athletes%20Excluding%20TOPS.png)
 
 ### Speed world records
 
